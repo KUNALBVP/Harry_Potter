@@ -1,7 +1,7 @@
 # WIKI POTTER
 <br>_This app shows the details about the characters, house, spells and wands from the classic movie series "HARRY POTTER".<br>
 It is a multi screen app with simple functionality but full-on custom styling.<br><br>_
-Download the app from [here](https://github.com/Im-awesome-Aadi/Harry_Potter/raw/master/apk/app-arm64-v8a-release.apk).
+Download the app from [here](https://github.com/KUNALBVP/Harry_Potter/blob/master/apk/app-arm64-v8a-release.apk).
 
 **Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
 <br>
