@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408841854120",
+    "firebase_url": "https://wiki-potter.firebaseio.com",
+    "project_id": "wiki-potter",
+    "storage_bucket": "wiki-potter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408841854120:android:5964e580752238cd4a769d",
+        "android_client_info": {
+          "package_name": "com.aditya25dev.harrypotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408841854120-vfa6hvk17f7ks7ni148r777fk6jc2k27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqAgLYFDnE-GEg-k6kkezzWa4hShj0Ly4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408841854120-vfa6hvk17f7ks7ni148r777fk6jc2k27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
